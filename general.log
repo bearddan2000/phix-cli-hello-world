@@ -1,0 +1,19 @@
+[2024-01-08 09:17:04 INFO]: install::setup-logging ended
+================
+[2024-01-08 09:17:04 INFO]: install::start-up started
+[2024-01-08 09:17:04 INFO]: install::start-up starting services
+[2024-01-08 09:17:04 INFO]: install::start-up ended
+================
+[2024-01-08 09:17:24 INFO]: install::root-check started
+[2024-01-08 09:17:24 INFO]: install::root-check ended
+================
+[2024-01-08 09:17:24 INFO]: install::docker-check started
+[2024-01-08 09:17:24 INFO]: install::docker-check ended
+================
+[2024-01-08 09:17:24 INFO]: install::docker-compose-check started
+[2024-01-08 09:17:24 INFO]: install::docker-compose-check ended
+================
+[2024-01-08 09:17:24 INFO]: install::tear-down started
+[2024-01-08 09:17:24 INFO]: install::tear-down starting services
+[2024-01-08 09:17:24 INFO]: install::tear-down ended
+================
